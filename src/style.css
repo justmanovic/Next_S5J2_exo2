@@ -1,0 +1,21 @@
+.card-box{
+  display: flex;
+}
+
+.block {
+  height: 10rem;
+}
+
+.red {
+  background-color: #ff0000;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color:green;
+}
+.yellow {
+  background-color: yellow;
+}
+
